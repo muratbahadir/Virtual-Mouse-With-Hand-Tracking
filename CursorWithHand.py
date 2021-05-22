@@ -1,5 +1,5 @@
 import cv2
-import HandDetection.HandDetectionModule as hs
+import HandDetectionModule as hs
 import time
 import autopy
 import numpy as np
